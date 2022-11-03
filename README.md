@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-<img src="Resources/Linear_regression.png" width="600">
+<img src="Resources/Linear_regression.png" width="400">
 
 ### * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length and ground clearance, the linear regression model run on these variables instead figeures for MPG.
@@ -15,8 +15,8 @@ The r-squared value in this model is 0.7149 which means that this model is 71% a
 
 ## Summary Statistics on Suspension Coils
 
-<img src="Resources/Tot_summ_df.png" width="600">
-<img src="Resources/Lot_df.png" width="600">
+<img src="Resources/Tot_summ_df.png" width="400">
+<img src="Resources/Lot_df.png" width="400">
 
 ### * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
@@ -29,9 +29,9 @@ At the time that a t.test was performed the results showed the following:
 * Lot 1 and Lot 2: Their values are not different from the population mean 1,500 pounds per square inch.  
 * Lot 3: The p-value for this lot is 0.04 so it indicates to reject the null hypothesis.
 
-<img src="Resources/t_test_mechacoil.png" width="600">
-<img src="Resources/t_test_lot1_2.png" width="600">
-<img src="Resources/t_test_lot3.png" width="600">
+<img src="Resources/t_test_mechacoil.png" width="400">
+<img src="Resources/t_test_lot1_2.png" width="400">
+<img src="Resources/t_test_lot3.png" width="400">
 
 ## Study Design: MechaCar vs Competition
 
